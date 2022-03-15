@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coin History", "Coin History\Coin History.csproj", "{2C1D229E-22F0-4F0F-8FC1-5998EDADF4DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C1D229E-22F0-4F0F-8FC1-5998EDADF4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1D229E-22F0-4F0F-8FC1-5998EDADF4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1D229E-22F0-4F0F-8FC1-5998EDADF4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1D229E-22F0-4F0F-8FC1-5998EDADF4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7FE329A-59BE-4BCD-A5B5-4C95760B20B7}
+	EndGlobalSection
+EndGlobal
